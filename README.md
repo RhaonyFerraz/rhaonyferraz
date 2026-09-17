@@ -1,8 +1,5 @@
 ## Hello i'm Rhaony Ferraz👋
 
 
-- 🔭 Front-end | VR AR Design-Developer | Cyber-Security.
-- 🌱 Learning  WEB 3.0 | AI.
-- 📫 E-Mail: rhaonyferraz@hotmail.com
--  https://rhaonyferraz.github.io/Profile-html-css/
+-abap, sap, sap-btp, sap-hana, sap-fiori, rap, cds-views, odata-v4, clean-abap
 
