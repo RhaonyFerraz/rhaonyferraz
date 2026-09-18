@@ -25,7 +25,7 @@ Bacharel em **Ciência de Dados** atuando na modernização de arquiteturas tran
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RhaonyFerraz&theme=algolia&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RhaonyFerraz&theme=discord&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -35,14 +35,14 @@ Bacharel em **Ciência de Dados** atuando na modernização de arquiteturas tran
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=RhaonyFerraz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=0070F2&text_color=ffffff"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhaonyFerraz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=ffffff"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RhaonyFerraz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=0070F2&text_color=ffffff&cache_seconds=86400"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhaonyFerraz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=ffffff&cache_seconds=86400"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RhaonyFerraz&theme=tokyonight&hide_border=true&background=0D1117&stroke=0070F2&ring=00B4D8&fire=0070F2&currStreakLabel=00B4D8)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RhaonyFerraz&theme=tokyonight&hide_border=true&background=0D1117&stroke=0070F2&ring=00B4D8&fire=0070F2&currStreakLabel=00B4D8&locale=pt_BR)](https://git.io/streak-stats)
 
 </div>
 
@@ -55,8 +55,8 @@ Bacharel em **Ciência de Dados** atuando na modernização de arquiteturas tran
 ![SAP BTP](https://img.shields.io/badge/SAP%20BTP-0070F2?style=for-the-badge&logo=sap&logoColor=white)
 ![ABAP Cloud](https://img.shields.io/badge/ABAP%20Cloud-1A3C5E?style=for-the-badge&logo=sap&logoColor=white)
 ![SAP HANA](https://img.shields.io/badge/SAP%20HANA-00B4D8?style=for-the-badge&logo=sap&logoColor=white)
-![OData V4](https://img.shields.io/badge/OData-V4-0070F2?style=for-the-badge)
-![RAP](https://img.shields.io/badge/RAP-Restful%20ABAP-1A3C5E?style=for-the-badge)
+![OData V4](https://img.shields.io/badge/OData-V4-0070F2?style=for-the-badge&logoColor=white)
+![RAP](https://img.shields.io/badge/Restful%20ABAP-RAP-1A3C5E?style=for-the-badge&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
