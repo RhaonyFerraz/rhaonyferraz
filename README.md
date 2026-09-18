@@ -11,7 +11,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rhaony%20Ferraz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhaony-ferraz-5a181377/?locale=pt)
 [![Live Demo Portal](https://img.shields.io/badge/Live%20Demo-Portal%20Estoque%20SAP-0070F2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rhaonyferraz.github.io/sap-portal-estoque/)
 [![SAP BTP](https://img.shields.io/badge/SAP%20BTP-ABAP%20Cloud-1A3C5E?style=for-the-badge&logo=sap&logoColor=white)](https://github.com/RhaonyFerraz/sap-portal-estoque)
-[![Profile Views](https://komarev.com/ghpvc/?username=RhaonyFerraz&color=0070F2&style=for-the-badge&label=Visitas)](https://github.com/RhaonyFerraz)
 
 </div>
 
@@ -25,7 +24,7 @@ Bacharel em **Ciência de Dados** atuando na modernização de arquiteturas tran
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RhaonyFerraz&theme=discord&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=RhaonyFerraz&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
 
 </div>
 
@@ -35,14 +34,14 @@ Bacharel em **Ciência de Dados** atuando na modernização de arquiteturas tran
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RhaonyFerraz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=0070F2&text_color=ffffff&cache_seconds=86400"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhaonyFerraz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=ffffff&cache_seconds=86400"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RhaonyFerraz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=0070F2&text_color=ffffff"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhaonyFerraz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=ffffff&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RhaonyFerraz&theme=tokyonight&hide_border=true&background=0D1117&stroke=0070F2&ring=00B4D8&fire=0070F2&currStreakLabel=00B4D8&locale=pt_BR)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=RhaonyFerraz&theme=tokyonight&hide_border=true&background=0D1117&stroke=0070F2&ring=00B4D8&fire=0070F2&currStreakLabel=00B4D8&locale=pt_BR" width="60%"/>
 
 </div>
 
